@@ -1,0 +1,22 @@
+Enter the path to the SalesData.txt file: SalesData.txt
+
+Week1 Info
+Total Sales: $27461.00
+Avg Daily Sales for Week: $3923.00
+
+Week2 Info
+Total Sales: $12058.34
+Avg Daily Sales for Week: $1722.62
+
+Week3 Info
+Total Sales: $35000.00
+Avg Daily Sales for Week: $5000.00
+
+Week4 Info
+Total Sales: $12092.75
+Avg Daily Sales for Week: $1727.54
+
+Total Sales for all Weeks: $86612.09
+Avg Weekly Sales: $21653.02
+Week3 had the highest amount of sales
+Week2 had the lowest amount of sales

@@ -6,12 +6,12 @@ import java.io.*;
  * analyze the totals and averages for the weeks
  *
  * @author Andrew Lam, alam001@student.sdccd.edu
- * @version v1.0
+ * @version v1.1
  * @since 11/1/2026
  */
 public class SalesAnalysis
 {
-    private static final int WEEKS_IN_MONTH = 4;
+    public static final int WEEKS_IN_MONTH = 4;
     private double[] weeklyNumber;
     private String inputFile;
     private int lineNumber = 0;
